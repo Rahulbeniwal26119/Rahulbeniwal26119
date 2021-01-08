@@ -5,11 +5,11 @@
 
 ## I'm a Web Developer , and Technical Blog Writer !!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning React and  everything 🤣
+
+- 🌱 I’m currently learning React and everything 🤣.
 - 👯 I’m looking to collaborate with other developers.
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to read pdf books specially related to Linux .
+- 🥅 2021 Goals: Contribute more to github and create multiple blogs.
+- ⚡ Fun fact: I love to read pdf books specially related to Linux and listen music while this.
 
 ### Spotify Playing 🎧
 
