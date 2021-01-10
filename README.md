@@ -52,6 +52,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Console Object Part 1](https://rahulbeniwal26119.medium.com/javascript-console-object-hacks-part-1-69a5ebb2484a)
+- [Console Object Part 2](https://rahulbeniwal26119.medium.com/javascript-console-object-hacks-part-2-d95cff910779)
 <!-- BLOG-POST-LIST:END -->
 
 ### Protfolio Link 
