@@ -3,7 +3,7 @@
 <!-- [![Website]()
  -->
 
-## I'm a Web Developer , and Technical Blog Writer !!
+## I'm a Full Stack Developer  , and Technical Blog Writer !!
 
 
 - 🌱 I’m currently learning React and everything 🤣.
