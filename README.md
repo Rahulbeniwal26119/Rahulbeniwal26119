@@ -63,3 +63,5 @@
 
 [linkedin]: https://www.linkedin.com/in/rahulbeniwal26119/
 
+https://github-readme-stats.vercel.app/api?username=Rahulbeniwal26119&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515
+
