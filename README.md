@@ -53,6 +53,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Console Object Part 1](https://rahulbeniwal26119.medium.com/javascript-console-object-hacks-part-1-69a5ebb2484a)
 - [Console Object Part 2](https://rahulbeniwal26119.medium.com/javascript-console-object-hacks-part-2-d95cff910779)
+- [Datatypes in JavaScript](https://rahulbeniwal26119.medium.com/datatypes-in-javascript-538ada968a57)
+- [JS String Part 1](https://rahulbeniwal26119.medium.com/js-string-part-1-cb140b12ab56)
+- [JS String Part 2](https://rahulbeniwal26119.medium.com/js-string-part-2-7675cb9ce2c4)
 <!-- BLOG-POST-LIST:END -->
 
 ### Protfolio Link 
