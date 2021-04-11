@@ -71,7 +71,7 @@
 [linkedin]: https://www.linkedin.com/in/rahulbeniwal26119/
 
 <a href="https://github.com/Rahulbeniwal26119">
-<img src="https://github-readme-stats.vercel.app/api?username=Rahulbeniwal26119&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
+<img align="center"  src="https://github-readme-stats.vercel.app/api?username=Rahulbeniwal26119&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
 </a>
 
 <a href="https://github.com/Rahulbeniwal26119">
