@@ -10,6 +10,7 @@
 - 👯 I’m looking to collaborate with other developers.
 - 🥅 2021 Goals: Contribute more to github and create multiple blogs.
 - ⚡ Fun fact: I love to read pdf books specially related to Linux and listen music while this.
+ <img align="right" src="https://i.postimg.cc/d3qQdKhf/robotintro-unscreen.gif" width="300px" height="300px" />
 
 
 ### Protfolio Link 
@@ -21,7 +22,7 @@
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
-<img align="right" src="https://i.postimg.cc/d3qQdKhf/robotintro-unscreen.gif" width="300px" height="300px" />
+
 
 ### Connect with me:
 
