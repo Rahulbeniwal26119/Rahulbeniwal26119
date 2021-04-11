@@ -15,6 +15,8 @@
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
+<img align="right" src="https://i.postimg.cc/d3qQdKhf/robotintro-unscreen.gif" width="300px" height="300px" />
+
 ### Connect with me:
 
 
@@ -68,3 +70,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Rahulbeniwal26119&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
 
+<a href="https://github.com/Rahulbeniwal26119">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahulbeniwal26119&theme=dark&hide_langs_below=1" />
+</a>
