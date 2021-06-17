@@ -14,13 +14,13 @@
 
 
 ### Live Link 
-<!-- PORTFOLIO: START  -->
+<!-- Live Links: START  -->
 - [Rahul Beniwal PortFolio](https://rahulbeniwalportfolio.netlify.app/)
 - [Amazon Clone](https://serene-borg-fc3c10.netlify.app/)
 - [Google Clone](https://clone-7fca3.web.app/)
 - [Covid-19 Tracker](https://awesome-wilson-7e01e1.netlify.app/)
 - [News App](https://eloquent-carson-45027f.netlify.app/)
-<!-- PORTFOLIO: END-->
+<!-- Live Links: END-->
 
 ### Spotify Playing 🎧
 
@@ -82,6 +82,8 @@
 <a href="https://github.com/Rahulbeniwal26119">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahulbeniwal26119&theme=dark&hide_langs_below=1" />
 </a>
+
+<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rahulbeniwal26119&theme=nord" alt="Rahulbeniwal26119 Stats" /></a> </p>
 
 <div align="center">
 
