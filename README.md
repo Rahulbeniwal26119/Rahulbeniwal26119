@@ -13,7 +13,7 @@
  <img align="right" src="https://i.postimg.cc/d3qQdKhf/robotintro-unscreen.gif" width="300px" height="300px" />
 
 
-### Master Link 
+### Live Link 
 <!-- PORTFOLIO: START  -->
 - [Rahul Beniwal PortFolio](https://rahulbeniwalportfolio.netlify.app/)
 - [Amazon Clone](https://serene-borg-fc3c10.netlify.app/)
