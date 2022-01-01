@@ -1,15 +1,14 @@
-### Hi there, I'm Rahul Beniwal 👋
+### Hi there, I'm <a href="https://gkassym.netlify.app" target="_blank">Rahul Beniwal</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <!-- [![Website]()
  -->
 
-## I'm a Full Stack Developer  , and Technical Blog Writer !!
+## I'm a Full Stack Developer !!
 
 
 - 🌱 I’m currently learning Django and everything 🤣.
 - 👯 I’m looking to collaborate with other developers.
-- 🥅 2021 Goals: Contribute more to github and create multiple blogs.
-- ⚡ Fun fact: I love to read pdf books specially related to Linux and listen music while this.
+- 🥅 2022 Goals: Contribute more to github.
  <img align="right" src="https://i.postimg.cc/d3qQdKhf/robotintro-unscreen.gif" width="300px" height="300px" />
 
 
@@ -22,17 +21,11 @@
 - [News App](https://eloquent-carson-45027f.netlify.app/)
 <!-- Live Links: END-->
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
-
-
 
 ### Connect with me:
 
 
-[<img align="left" alt="Rahulbeniwal26119 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rahulbeniwal26119/)
 
 <br />
 
@@ -76,14 +69,15 @@
 [linkedin]: https://www.linkedin.com/in/rahulbeniwal26119/
 
 <a href="https://github.com/Rahulbeniwal26119">
-<img align="center"  src="https://github-readme-stats.vercel.app/api?username=Rahulbeniwal26119&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
-</a>
+<!-- <img align="center"  src="https://github-readme-stats.vercel.app/api?username=Rahulbeniwal26119&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
+</a> -->
 
 <a href="https://github.com/Rahulbeniwal26119">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahulbeniwal26119&theme=dark&hide_langs_below=1" />
 </a>
 
 <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rahulbeniwal26119&theme=nord" alt="Rahulbeniwal26119 Stats" /></a> </p>
+
 
 <div align="center">
 
