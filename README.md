@@ -3,22 +3,46 @@
 <!-- [![Website]()
  -->
 
-## I'm a Full Stack Developer !!
+## I'm a Python Developer !!
 
 
-- 🌱 I’m currently learning Django and everything 🤣.
-- 👯 I’m looking to collaborate with other developers.
-- 🥅 2022 Goals: Contribute more to github.
+- 🌱 I’m currently learning and writing about Python.
+- 👯 I’m looking to collaborate with other developers and Tech Authors.
+- 🥅 2022 Goals: Contribute more to Github and Medium.
  <img align="right" src="https://i.postimg.cc/d3qQdKhf/robotintro-unscreen.gif" width="300px" height="300px" />
 
+## My Blogs
+### Django
+- [Django Middleware](https://medium.com/django-unleashed/protect-and-serve-e2e-encryption-with-django-middleware-137073ad1ffc)
+- [Django + Celery](https://medium.com/@rahulbeniwal26119/django-celery-practical-implementation-under-9-mins-c42bbcee84aa)
+- [Django + Redis](https://medium.com/@rahulbeniwal26119/django-redis-practical-usage-f244c48ef8ac)
+- [ORM Optimization Part 1](https://medium.com/django-unleashed/lets-make-django-orm-2x-efficient-part-1-12e0d56a1b4e)
+- [ORM Optimization Part 2](https://medium.com/django-unleashed/lets-make-django-orm-2x-efficient-part-2-35c194fc0d24)
+
+### Python
+- [Python Requests](https://medium.com/@rahulbeniwal26119/mastering-requests-in-python-unlock-the-power-of-http-with-headers-and-beyond-ada4dc35c3ef)
+- [Pydantic](https://medium.com/@rahulbeniwal26119/intro-to-modern-request-and-response-parsing-under-10-min-with-pydantic-models-under-10-a75feb0ab9de)
+
+### FastAPI
+- [Fast API Intro](https://medium.com/@rahulbeniwal26119/kick-start-to-fastapi-modern-python-framework-under-10-minutes-d97c84221ef8)
+
+### Python Topics
+- [Decorators in Python](https://medium.com/@rahulbeniwal26119/decorators-in-python-c652533cfd62)
+- [Bytes and String in Python](https://medium.com/@rahulbeniwal26119/bytes-and-string-in-python-6cf5065ef47d)
+- [Itertools for Iterators](https://medium.com/@rahulbeniwal26119/pythons-itertools-for-iterators-27a51cd901b5)
+- [Super in Python](https://medium.com/@rahulbeniwal26119/why-we-need-super-in-python-d5e3c70b026)
+- [Getter Setters vs Property vs Descriptors](https://medium.com/@rahulbeniwal26119/getter-setters-vs-property-vs-descriptors-82815935407f)
+- [Python Code Generators](https://medium.com/@rahulbeniwal26119/python-code-generators-namedtuple-and-dataclass-88feb6537fa8)
+- [Context Manager in Python](https://medium.com/@rahulbeniwal26119/context-manager-in-python-c388f76e75a9)
+- [When to use List Optimization Trick](https://medium.com/@rahulbeniwal26119/5-proven-tips-for-writing-efficient-python-code-unveiling-benchmarking-results-for-mastering-a3875c67f5c5)
 
 ### Live Link 
 <!-- Live Links: START  -->
 - [Rahul Beniwal PortFolio](https://rahulbeniwalportfolio.netlify.app/)
-- [Amazon Clone](https://serene-borg-fc3c10.netlify.app/)
-- [Google Clone](https://clone-7fca3.web.app/)
-- [Covid-19 Tracker](https://awesome-wilson-7e01e1.netlify.app/)
-- [News App](https://eloquent-carson-45027f.netlify.app/)
+<!-- - [Amazon Clone](https://serene-borg-fc3c10.netlify.app/)  -->
+<!-- - [Google Clone](https://clone-7fca3.web.app/)  -->
+<!-- - [Covid-19 Tracker](https://awesome-wilson-7e01e1.netlify.app/)  -->
+<!-- - [News App](https://eloquent-carson-45027f.netlify.app/) -->
 <!-- Live Links: END-->
 
 
@@ -53,19 +77,6 @@
 <br />
 
 ---
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Console Object Part 1](https://rahulbeniwal26119.medium.com/javascript-console-object-hacks-part-1-69a5ebb2484a)
-- [Console Object Part 2](https://rahulbeniwal26119.medium.com/javascript-console-object-hacks-part-2-d95cff910779)
-- [Datatypes in JavaScript](https://rahulbeniwal26119.medium.com/datatypes-in-javascript-538ada968a57)
-- [JS String Part 1](https://rahulbeniwal26119.medium.com/js-string-part-1-cb140b12ab56)
-- [JS String Part 2](https://rahulbeniwal26119.medium.com/js-string-part-2-7675cb9ce2c4)
-<!-- BLOG-POST-LIST:END -->
-
-
-
 [linkedin]: https://www.linkedin.com/in/rahulbeniwal26119/
 
 <a href="https://github.com/Rahulbeniwal26119">
