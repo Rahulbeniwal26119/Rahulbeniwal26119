@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning and writing about Python.
 - 👯 I’m looking to collaborate with other developers and Tech Authors.
-- 🥅 2022 Goals: Contribute more to Github and Medium.
+- 🥅 2022 Goals: Contribute more to Github and [Medium](https://medium.com/@rahulbeniwal26119/).
  <img align="right" src="https://i.postimg.cc/d3qQdKhf/robotintro-unscreen.gif" width="300px" height="300px" />
 
 ## My Blogs
