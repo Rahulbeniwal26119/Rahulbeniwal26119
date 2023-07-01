@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning and writing about Python.
 - 👯 I’m looking to collaborate with other developers and Tech Authors.
-- 🥅 2022 Goals: Contribute more to Github and [Medium](https://medium.com/@rahulbeniwal26119/).
+- 🥅 2023 Goals: Contribute more to Github and [Medium](https://medium.com/@rahulbeniwal26119/).
  <img align="right" src="https://i.postimg.cc/d3qQdKhf/robotintro-unscreen.gif" width="300px" height="300px" />
 
 ## My Blogs
@@ -59,13 +59,7 @@
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-
+<img align="left" alt="Postgresql" width="26px" src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png" />
 
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
