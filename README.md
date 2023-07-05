@@ -1,4 +1,4 @@
-### Hi there, I'm <a href="https://gkassym.netlify.app" target="_blank">Rahul Beniwal</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there, I'm <a href="https://rahulbeniwalportfolio.vercel.app/" target="_blank">Rahul Beniwal</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <!-- [![Website]()
  -->
@@ -38,7 +38,7 @@
 
 ### Live Link 
 <!-- Live Links: START  -->
-- [Rahul Beniwal PortFolio](https://rahulbeniwalportfolio.netlify.app/)
+- [PortFolio](https://rahulbeniwalportfolio.vercel.app/)
 <!-- - [Amazon Clone](https://serene-borg-fc3c10.netlify.app/)  -->
 <!-- - [Google Clone](https://clone-7fca3.web.app/)  -->
 <!-- - [Covid-19 Tracker](https://awesome-wilson-7e01e1.netlify.app/)  -->
