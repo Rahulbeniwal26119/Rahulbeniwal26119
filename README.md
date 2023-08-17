@@ -19,14 +19,15 @@
 - [ORM Optimization Part 1](https://medium.com/django-unleashed/lets-make-django-orm-2x-efficient-part-1-12e0d56a1b4e)
 - [ORM Optimization Part 2](https://medium.com/django-unleashed/lets-make-django-orm-2x-efficient-part-2-35c194fc0d24)
 
-### Python
-- [Python Requests](https://medium.com/@rahulbeniwal26119/mastering-requests-in-python-unlock-the-power-of-http-with-headers-and-beyond-ada4dc35c3ef)
-- [Pydantic](https://medium.com/@rahulbeniwal26119/intro-to-modern-request-and-response-parsing-under-10-min-with-pydantic-models-under-10-a75feb0ab9de)
-
 ### FastAPI
 - [Fast API Intro](https://medium.com/@rahulbeniwal26119/kick-start-to-fastapi-modern-python-framework-under-10-minutes-d97c84221ef8)
 
-### Python Topics
+### Python
+- [Python Requests](https://medium.com/@rahulbeniwal26119/mastering-requests-in-python-unlock-the-power-of-http-with-headers-and-beyond-ada4dc35c3ef)
+- [Pydantic](https://medium.com/@rahulbeniwal26119/intro-to-modern-request-and-response-parsing-under-10-min-with-pydantic-models-under-10-a75feb0ab9de)
+- [List Mastery](https://medium.com/@rahulbeniwal26119/list-in-python-for-everybody-all-methods-covered-under-6-minutes-ebfb2506fdd2)
+- [Mastering Logging](https://medium.com/@rahulbeniwal26119/enhance-your-development-skills-mastering-logging-with-python-16d1c59b8a07)
+- [Working with temp files](https://medium.com/django-unleashed/exploring-pythons-temp-files-a-practical-guide-for-developers-a300495f5fca)
 - [Decorators in Python](https://medium.com/@rahulbeniwal26119/decorators-in-python-c652533cfd62)
 - [Bytes and String in Python](https://medium.com/@rahulbeniwal26119/bytes-and-string-in-python-6cf5065ef47d)
 - [Itertools for Iterators](https://medium.com/@rahulbeniwal26119/pythons-itertools-for-iterators-27a51cd901b5)
