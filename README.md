@@ -24,7 +24,7 @@
 
 ### Python
 - [Python Requests](https://medium.com/@rahulbeniwal26119/mastering-requests-in-python-unlock-the-power-of-http-with-headers-and-beyond-ada4dc35c3ef)
-- [Pydantic](https://medium.com/@rahulbeniwal26119/intro-to-modern-request-and-response-parsing-under-10-min-with-pydantic-models-under-10-a75feb0ab9de)
+- [Pydantic (Modern Request Parsing)](https://medium.com/@rahulbeniwal26119/intro-to-modern-request-and-response-parsing-under-10-min-with-pydantic-models-under-10-a75feb0ab9de)
 - [List Mastery](https://medium.com/@rahulbeniwal26119/list-in-python-for-everybody-all-methods-covered-under-6-minutes-ebfb2506fdd2)
 - [Mastering Logging](https://medium.com/@rahulbeniwal26119/enhance-your-development-skills-mastering-logging-with-python-16d1c59b8a07)
 - [Working with temp files](https://medium.com/django-unleashed/exploring-pythons-temp-files-a-practical-guide-for-developers-a300495f5fca)
