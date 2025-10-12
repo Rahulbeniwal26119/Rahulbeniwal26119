@@ -19,7 +19,7 @@
 
 - [Know More About Me](https://rahulbeniwal.takovibe.com)  
 - [Read My Articles](https://medium.com/@rahulbeniwal26119)  
-- Wanna Work Together? → <a href="mailto:rahulbeniwal26119@gmail.com">Mail Me</a>
+- Wanna Work Together? → <a href="mailto:rahulbeniwal26119@gmail.com">rahulbeniwal26119@gmail.com</a>
 
 ---
 
